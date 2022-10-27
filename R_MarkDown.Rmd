@@ -1,0 +1,15 @@
+---
+title: "Week4"
+output: html_document
+date: "2022-10-14"
+output: html_document
+---
+
+## Setting up my enviroment
+Notes: Setting up my R environment by loading the 'tidyverse' and 'palmer genguins' packages
+
+```{r loading packages}
+library(tidyverse)
+library(palmerpenguins)
+```
+
